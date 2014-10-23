@@ -33,3 +33,9 @@ Please follow the steps below:
 4. Visit the website and you are ready to go. If you need further help do not hesitate to contact me.
 
 5. Add the file cron.php to the cronjob each X minutes you want but I suggest something like 10 or 15 minutes.
+
+
+Donations Appreciated
+---------------------
+
+Bitcoin: 16kY6o64MErWR3GW8DPp2HWJDhaxho8dPB
